@@ -4,3 +4,15 @@
 [submodule "pack/plugins/start/nerdtree"]
 	path = pack/plugins/start/nerdtree
 	url = https://github.com/preservim/nerdtree.git
+[submodule "pack/plugins/start/vim-notes"]
+	path = pack/plugins/start/vim-notes
+	url = https://github.com/xolox/vim-notes.git
+[submodule "pack/plugins/start/vim-misc"]
+	path = pack/plugins/start/vim-misc
+	url = https://github.com/xolox/vim-misc.git
+[submodule "pack/plugins/start/fzf.vim"]
+	path = pack/plugins/start/fzf.vim
+	url = https://github.com/junegunn/fzf.vim.git
+[submodule "pack/plugins/start/fzf"]
+	path = pack/plugins/start/fzf
+	url = https://github.com/junegunn/fzf.git
